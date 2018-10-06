@@ -12,6 +12,7 @@ Title: L'arte di far debiti
 Author: Antonio Ghislanzoni
 
 Release Date: October 13, 2014 [EBook #47102]
+Last Updated: July 26, 2016
 
 Language: Italian
 
@@ -77,7 +78,7 @@ occulta, nato a Londra, battezzato a Parigi, educato a Costantinopoli,
 assente da tutte le città del globo e inquilino perpetuo della ignota
 dimora;_
 
-_Trovandomi oggimai ridotto all'estrema passo della vita, e sapendo per
+_Trovandomi oggimai ridotto all'estremo passo della vita, e sapendo per
 certi dati di dover tirare l'ultimo fiato innanzi alla scadenza delle
 mie ottocento ventiquattro cambiali girovaghe, firmate per la massima
 parte con nomi di fantasia; Non possedendo, pel momento, altri fondi
@@ -131,11 +132,11 @@ _Qualcuno ha messo il fuoco a quelle cataste.., Vedete le orribili
 fiamme! udite le strida feroci!..._
 
 _Copritevi gli ocelli! turatevi gli orecchi!--è il credito che
-brucia--sono gli ultimi creditori che spariscono dalla faccia. del
+brucia--sono gli ultimi creditori che spariscono dalla faccia del
 mondo..._
 
 _Frattanto--in attesa che i tempi maturino--vediamo, o_ puffisti
-_fratelli, di di scongiurare, per quanto è da noi, le calamità
+_fratelli, di scongiurare, per quanto è da noi, le calamità
 presenti._
 
 _Questo libricciuolo, che ben a ragione potrebbe intitolarsi il_
@@ -210,7 +211,7 @@ trovarlo--chè in verità, se non ci fosse modo di eludere il tremendo
 dilemma, sarebbe ad invocarsi il diluvio universale o la pioggia
 sulfurea per cui ebbero a perire Sodoma e Gomorra.
 
-Via! respiri la umanità desolata!... Non provochiamola collera di Dio
+Via! respiri la umanità desolata!... Non provochiamo la collera di Dio
 colle bestemmie della disperazione! Il temperamento fu trovato--fu
 trovato da secoli--e questa provvidenziale invenzione noi la dobbiamo
 ai... _puffisti_.
@@ -269,7 +270,7 @@ tanto meglio per lui. La buona riputazione dei parenti potrà
 agevolargli il successo delle prime intraprese _puffistiche_.
 
 Una certa avvenenza personale può riuscire vantaggiosa. Giova la
-statura elevata quando si colleglli ad una certa rotondità di forme.
+statura elevata quando si colleghi ad una certa rotondità di forme.
 Gli uomini lunghi e macilenti ispirano ordinariamente meno fiducia
 che non i tarchiati e pienotti. Il vero _puffista_ deve aver sortito
 dalla natura quella impronta di _distinzione_ che non ha tipo fisso,
@@ -304,7 +305,7 @@ mezzi strategici per tradurli in atto e condurli a buon fine.
 nel campo tante volte esplorato e non mai abbastanza mietuto del
 credito _senza base_--è un istinto di divinazione quello che ci
 addita le fonti vitali dove a noi sarà permesso di abbeverarci e di
-inebbrìarci dell'altrui, senza pericolo e senza rimorso. La poesia
+inebbriarci dell'altrui, senza pericolo e senza rimorso. La poesia
 fiuta da lontano il bosco degli agrumi; noi accorriamo con gioia, noi
 stendiamo la mano a cogliere il frutto. Una volta che il limone sia in
 nostra mano, la matematica ci suggerirà i meccanismi per ispremerne il
@@ -318,7 +319,7 @@ Il genio poetico non può bastare da solo a creare il perfetto
 _puffista_--ove a questo non soccorra il talento matematico, si avranno
 delle concezioni sublimi, degli intendimenti elevatissimi, non mai dei
 risultati sicuri. La biografia di molti poeti è là per attestare ciò
-che io asserisco. Omero non sarebbe morto di farne se alla grandiosità
+che io asserisco. Omero non sarebbe morto di fame se alla grandiosità
 delle sue concezioni _puffistiche_ avesse accoppiato il talento più
 positivo e la pazienza di realizzarle! Dante, il divino Dante, con
 tutta la sua buona volontà di _puffare_ il mondo, non riuscì che un
@@ -936,7 +937,7 @@ che mi hanno dato i vostri versi, le emozioni di questa dolce e troppo
 breve serata valgon bene il sacrifizio di diecimila franchi....
 Cosa sono finalmente, per un mio pari diecimila franchi?.... Una
 bagatella,... una inezia.... D'altronde non è detto che siano
-perduti...--Ma signore...se credete che io possa...--Non vi incomodate,
+perduti...--Ma signore... se credete che io possa...--Non vi incomodate,
 banchiere... non datevi pena per questo incidente.... Si trattava di
 un amico... voi sapete... di quel Lord Midletton, al quale due sere
 sono ho prestato una piccola somma sul giuoco.... Non ho mai conosciuto
@@ -968,20 +969,19 @@ soffocata dalla beatitudine mi disse:--non mi tentate... non fatemi
 violenza... non imponete dei patti impossibili.... Io posso bene
 affidare qualche miliajo di lire ad un galantuomo pari vostro--ma
 gettare le mie perle nel fango?--via! questo sarebbe troppo! Non vi
-sona che due uomini nell'età presente che possano comprendere la mia
+sono che due uomini nell'età presente che possano comprendere la mia
 _Trasmigrazione_--questi due uomini siamo io e voi!
 
 All'indomani verso le quattro, scrissi una lettera al banchiere per
 fargli capire che io era assai ben disposto ad accogliere i dieci mila
 franchi a titolo di prestito, ma al tempo stesso io insistevo per la
-pubblizione del poema.
+pubblicazione del poema.
 
 Il banchiere mi inviò tosto i dieci mila franchi in tanti biglietti
 della banca francese e con quelli il manoscritto della _Trasmigrazione_
-che egli mi dedicava coli'epigrafe: _all'uno dei due_.
+che egli mi dedicava coll'epigrafe: _all'uno dei due_.
 
-Io chiusi la _Trasmigrazione delle anime_ nella valigia, e dopo
-ventiquattro ore _trasmigrai_ corpo ed anima per regioni _ignote._
+mi dedicavaventiquattro ore _trasmigrai_ corpo ed anima per regioni _ignote._
 
 Troppo lungo sarebbe il narrarvi i grandi e molteplici risultati che io
 ottenni solleticando la _corda sensibile_ di diversi individui.--Gli
@@ -1366,7 +1366,7 @@ Quel poeta che lasciò scritto:
     La vista orribile
     D'un creditor
 
-doveva appartenere, nella gerarchia del regno _puffisttco_, all'infima
+doveva appartenere, nella gerarchia del regno _puffistico_, all'infima
 classe.
 
 È vero--la vista di un creditore non è molto aggradevole--val meglio
@@ -1595,7 +1595,7 @@ prestito:
     Potrìa nascer l'accidente
     Che finissi col pagar niente.
 
-Sono versi un po'volgari, ed anzi l'ultima cresce di un piede.
+Sono versi un po' volgari, ed anzi l'ultima cresce di un piede.
 
 Questo piede che cresce, potreste all'occasione regalarlo alle natiche
 dei vostri creditori.--A giudizio di molti pratici, questo è ancora il
@@ -1839,7 +1839,7 @@ alla fine dʼanno mandargli una nota di lire trecento:
   «Pregiatissimo Signore,
 
  «Al capezzale della mia povera vecchia madre morente, ho ricevuto la
- vostra lettera, che mi ricorda un sacro dovere. Appena avrò un poʼdi
+ vostra lettera, che mi ricorda un sacro dovere. Appena avrò un poʼ di
  testa... per esaminare... per confrontare... ecc. ecc... appena la santa
  donna, che mi vuol sempre vicino, sarà uscita di pericolo, io correrò da
  voi per regolare le partite. Frattanto, credete ai sensi ecc.»
@@ -2286,7 +2286,7 @@ due mesi e ha preso il largo per la California...
 
 GIAC.--In tal caso, non ho più nulla che dire...
 
-MARCO--Quel calesse vai bene quaranta marenghi--mi hai capito?
+MARCO--Quel calesse val bene quaranta marenghi--mi hai capito?
 
 (_Entrano in scena alcuni forestieri giunti colla ferrovia_).
 
@@ -2544,10 +2544,10 @@ FRON.--Ai vostri ordini, signora baronessa....
 
 DEIAN.--Fortunatissima del felice incontro....
 
-ROB.--Qual buon vento vi ha portato alla fiera di Cette?...
+ROB.--Qual buon vento vi ha portato alla fiera di Çette?...
 
 DEIAN.--Un vento favorevolissimo senza dubbio. Allorquando quei due
-pianeti luminosi che si chiamano Roberto De-Foy e Deianina De-Cristen
+pianeti luminosi che si chiamano Roberto De-Foy e Deianira De-Cristen
 vengono ad incontrarsi e ad urtarsi...
 
 ROB.--La terra risente una scossa... gli abissi si spalancano, e
@@ -3005,12 +3005,12 @@ altrui!..._
 
 =Roberto= _indi_ =Frontino=.
 
-ROB. (_guardando verso la soffitta_) Ecco il segnale! (_va m fondo alla
+ROB. (_guardando verso la soffitta_) Ecco il segnale! (_va in fondo alla
 scena, preme un bottone di ferro che sporge dalla parete; la soffitta
 si apre dal lato che comunica colla sala_) Esattissimo, questo Frontino!
 
 FRONT. (_che sarà sceso dalla scala dopo aver rinchiusa la porticela_)
-Eccomi! (_tirando lʼorologio dal taschino del gilet_) Le quattto e due
+Eccomi! (_tirando lʼorologio dal taschino del gilet_) Le quattro e due
 minuti.
 
 ROB.--Come andò la giornata?
@@ -3368,11 +3368,11 @@ verrà a momenti!
 (_gli invitati si disperdono nelle sale; i domestici si collocano agli
 ingressi dei gabinetti_).
 
-UN FANCIULLO (_ad uno degli invitati_) Vedi, papa, i bei lampadarii...
+UN FANCIULLO (_ad uno degli invitati_) Vedi, papà, i bei lampadarii...
 le magnifiche dorature!....
 
 IL PADRE--Modera il tuo entusiasmo--e ficcati bene in mente questa
-massima: che al ammirare ogni cosa si passa per imbecilli.
+massima: che all'ammirare ogni cosa si passa per imbecilli.
 
 FANC.--Terrò calcolo del tuo avviso.
 
@@ -3490,7 +3490,7 @@ direttore delle feste--mi pare che la società sia completa... Noi
 attendiamo un vostro segno per slanciarci nei vortici del ballo o per
 immergerci voluttuosamente in un bagno di melodie....
 
-FRONT.--Prima di tutto, un poʼdi musica... non è vero?... Se il signor
+FRONT.--Prima di tutto, un poʼ di musica... non è vero?... Se il signor
 Gallinini vuoi mettersi al pianoforte....
 
 GALLININI--Eccomi!... Non mi farò pregare... Ardo dal desiderio di
@@ -3505,7 +3505,7 @@ signor Gallinini...!
 DEIAN.--E noi, mettiamoci a sedere... ed ascoltiamo... Il signor
 Gallinini non può darci che della musica di paradiso.
 
-UN SIGNORE--Gallinini!... ai cognome devʼessere italiano... (_Gallinini
+UN SIGNORE--Gallinini!... al cognome devʼessere italiano... (_Gallinini
 preludia sul pianoforte_) Deliziosa!... Alle prime battute si vedono le
 stelle, la luna, le fronde, le acque della Senna...
 
@@ -3804,7 +3804,7 @@ COMISS.--Mi farò un onore di accompagnarla io stesso fino
 allʼanticamera....
 
 ROB.--Troppe grazie!... obbligatissimo! (_volgendosi ai circostanti_)
-_Benedictio Dei patris_... (_sottovoce a Deianina_) Prudenza e
+_Benedictio Dei patris_... (_sottovoce a Deianira_) Prudenza e
 discrezione! (_forte_) _super vos et super filios vestros per omnia
 sæcula sæculorum_! (_esce col comissario_).
 
@@ -3878,7 +3878,7 @@ DEIAN. (_cadendo nelle braccia di Giacinto_) Ah!...
 
 GIAC.--Un altro svenimento!... Quale fortuna!....
 
-(_fa sedere Deianira sovra una seggiola e cade alle sue ginocchio_).
+(_fa sedere Deianira sovra una seggiola e cade alle sue ginocchia_).
 
 FINE DELLʼATTO SECONDO.
 
@@ -4099,7 +4099,7 @@ tue faccende...! Dopo la disgrazia... che tu sai, siamo accorsi qui,
 Clementina ed io--abbiamo abbandonata la nostra casa in balìa di un
 fattore... e tu sai quanto sien ladri i fattori!... Non importa, dicevo
 a Clementina--corriamo a Çette!--vediamo di salvare quanto si può
-delle sostanze di quel scavezza... di quel caro radazzo... Ti abbiamo
+delle sostanze di quel scavezza... di quel caro ragazzo... Ti abbiamo
 scritto--nessuna risposta... Più tardi sapemmo della tua malattìa...
 Il mio primo pensiero--non è vero, Clementina?--fu di volare a
 Bruxelles per recarti qualche soccorso--ma non eravamo ben certi...
@@ -4167,7 +4167,7 @@ dona cinque lire onde io mi proveda di uno sgabello e di una spazzola?
 Piuttosto che rubare... via!... anderò per la città a raccogliere le
 spazzatura--ma chi mi presta cinque soldi onde io comperi una scopa?...
 E innanzi tutto, dopo quarantotto ore di digiuno, chi mi dà a credito
-un pane perchè io mi rimetta in corpo un poʼdi rigore? (_vede il
+un pane perchè io mi rimetta in corpo un poʼ di rigore? (_vede il
 portafoglio_) Un portafoglio!... (_raccogliendolo_) Il catechista non
 mi ha ingannato;--la provvidenza viene in soccorso dellʼuomo onesto!...
 No! io non scioglierò questo involto... Il denaro potrebbe tentarmi...
@@ -4266,7 +4266,7 @@ create dalla natura. Alla nostra scuola si diventa giganti o si
 muore.--Giacinto, ora puoi prender moglie senza pericolo....
 
 ROB. (_a Clementina_) Sì... lʼho conosciuto a Parigi... Era intimo
-di mio figlio... Buon ragazzo... un poʼsventato... un poʼ largo di
+di mio figlio... Buon ragazzo... un poʼ sventato... un poʼ largo di
 cuore... del resto una pasta eccellente....
 
 CLEM.--Mi consolate. Credete voi chʼegli diverrà un buon marito?....
@@ -4332,7 +4332,7 @@ SCENA XI.
 TOMM.--Ah.! siete qui...! Clementina...! va!... disponi...! A momenti
 verrà da noi lʼavvocato Cavillo... Lʼho invitato a far colazione
 (_dandole una chiave_) Metti in tavola le posate dʼargento e tutto il
-mia ricco servizio di porcellane....
+mio ricco servizio di porcellane....
 
 CLEM.--Tu... dici?....
 
@@ -4365,7 +4365,7 @@ CLEM.--Era appunto il ricavo netto... di quelle posate....
 
 GIAC.--Nobile cuore!... anima generosa e sublime...!
 
-TOMM. Ah! la... scia che io pure... mi congratoli, che io pure....
+TOMM. Ah! la... scia che io pure... mi congratuli, che io pure....
 
 
 
@@ -4479,7 +4479,7 @@ Guardiamoci... dalle guardie di pubblica sicurezza!
     Apro uno studio in piazza,
     Mi intitolo banchiere;
     Se ad iniziar la Banca.
-    Il capitai mi manca,
+    Il capital mi manca,
     Poichè basta volerlo,
     Sò come posso averlo.
 
